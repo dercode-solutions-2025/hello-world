@@ -544,6 +544,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Latino](l/Latino.lat)
 * [LazyK](l/LazyK.lazy)
 * [LBL](l/LBL.lbl)
+* [LightCobol](l/lightcobol.lc)
 * [LCoffee](l/LCoffee.lcoff)
 * [Lean](l/Lean.lean)
 * [Less](l/Less.less)
