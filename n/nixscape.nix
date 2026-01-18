@@ -1,0 +1,3 @@
+PRINT "Hello, World!"
+UNI /CONFIRM/
+ENDED.
