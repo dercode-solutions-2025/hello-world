@@ -1,0 +1,2 @@
+IDENTIFY FILENAME "lightcobol.lc"
+PRINT "Hello World!"
